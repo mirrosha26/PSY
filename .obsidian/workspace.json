@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "socket/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "socket/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "socket/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "socket/README.md"
               }
             }
           }
@@ -166,14 +166,20 @@
   },
   "active": "8e7e81d791680c93",
   "lastOpenFiles": [
+    "Github.md",
+    "socket/README.md",
+    "socket/clients.txt",
+    "socket/server.log",
+    "socket/client.py",
+    "socket/server.py",
+    "socket",
     "file_manager/start_file_manager.py",
     "file_manager/file_manager.py",
-    "file_manager/README.md",
-    "file_manager/test/test-1.py",
-    "file_manager/test/test.py",
-    "file_manager/test",
     "file_manager/main.py",
-    "file_manager",
+    "socket/authentication_server.log",
+    "file_manager/socket/client.py",
+    "file_manager/socket/README.md",
+    "file_manager/README.md",
     "media/20230606013318.png",
     "media/20230606021054.png",
     "media/20230606021035.png",
@@ -184,10 +190,8 @@
     "media/20230606015446.png",
     "media/20230606015011.png",
     "media/20230606014724.png",
-    "Github.md",
     "README.md",
     "Pasted image 20230606005227.png.md",
-    "media",
     "Untitled 1.md",
     "Тревога избегания.md",
     "Ближний круг.md",

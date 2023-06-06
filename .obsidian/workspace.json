@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "socket/README.md",
+                "file": "flask/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "socket/README.md",
+                "file": "flask/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "socket/README.md",
+                "file": "flask/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "socket/README.md"
+                "file": "flask/README.md"
               }
             }
           }
@@ -166,6 +166,9 @@
   },
   "active": "8e7e81d791680c93",
   "lastOpenFiles": [
+    "ftp/README.md",
+    "low_web/README.md",
+    "socket/README.md",
     "low_web/index/cat.webp",
     "low_web/index/bird150.jpg",
     "low_web/index/index.html",
@@ -174,13 +177,11 @@
     "low_web/server.py",
     "low_web/log.txt",
     "low_web/index",
-    "low_web/README.md",
     "low_web",
     "ftp/docs/log.txt",
     "ftp/docs/auth.json",
     "ftp/test.py",
     "ftp/settings.py",
-    "ftp/README.md",
     "flask/README.md",
     "Flask_app/README.md",
     "FTP_server/README.md",
@@ -190,7 +191,6 @@
     "encryption/README.md",
     "encryption_protocols/README.md",
     "Github.md",
-    "socket/README.md",
     "file_manager/socket/README.md",
     "file_manager/README.md",
     "media/20230606013318.png",
@@ -198,7 +198,6 @@
     "media/20230606021035.png",
     "media/20230606020343.png",
     "media/20230606020220.png",
-    "media/20230606020030.png",
     "README.md",
     "Pasted image 20230606005227.png.md",
     "Untitled 1.md",

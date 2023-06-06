@@ -166,6 +166,9 @@
   },
   "active": "8e7e81d791680c93",
   "lastOpenFiles": [
+    "socket/gigachat/client.py",
+    "socket/gigachat/server.py",
+    "socket/gigachat",
     "Github.md",
     "socket/README.md",
     "socket/clients.txt",
@@ -176,8 +179,6 @@
     "file_manager/start_file_manager.py",
     "file_manager/file_manager.py",
     "file_manager/main.py",
-    "socket/authentication_server.log",
-    "file_manager/socket/client.py",
     "file_manager/socket/README.md",
     "file_manager/README.md",
     "media/20230606013318.png",
